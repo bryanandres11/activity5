@@ -1,0 +1,66 @@
+.homestyle1:hover{
+    background-color: blue;    
+}
+.homestyle2:hover{
+    background-color: yellow;
+}
+.homestyle3:hover{
+    background-color: brown;
+}
+.homestyle4:hover{
+    background-color: bisque;
+}
+.homestyle5:hover{
+    background-color: blueviolet;
+}
+.homestyle6:hover{
+    background-color: goldenrod;
+}
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: lightgray;
+    padding: 10px;
+}
+
+a{
+    margin-right: 20px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    font-weight: bolder;
+    
+}
+p{
+    background-color: aquamarine;
+    border-top: 10px solid seagreen;
+    border-bottom: 10px solid seagreen;
+    padding: 15px;
+    text-align: center;
+}
+img{
+    width: 25%;
+    border: 3px solid darkgreen;
+    padding: 20px;
+    border-radius: 30%;
+    box-shadow: 20px 20px 30px darkgray;
+    display: block;
+    margin: auto;
+
+}
+table   {
+
+    border: 1px solid blue;
+    border-collapse: collapse;
+    background-color: aqua;
+}
+td  {
+    border: 1px solid blue;
+    padding: 5px;
+}
+tr:nth-child(odd)   {
+    background-color: darkkhaki;
+}
